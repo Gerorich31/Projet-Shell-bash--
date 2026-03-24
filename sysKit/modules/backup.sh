@@ -14,6 +14,7 @@ if [ ! -d "$DOSSIER_SOURCE" ]; then
     exit 1
 fi
 
+echo "backup effectué" >> /logs/backup.log
 DOSSIER_BACKUP="./backup"
 DATE_JOUR=$(date +"%Y-%m-%d")
 NOM_DOSSIER=$(basename "$DOSSIER_SOURCE")
