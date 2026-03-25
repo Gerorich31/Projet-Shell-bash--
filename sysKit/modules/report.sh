@@ -47,3 +47,5 @@ echo "" >> "$report_file"
 echo "===== FIN DU RAPPORT =====" >> "$report_file"
 
 echo "Rapport généré dans $report_file"
+
+#ce script fontionne
