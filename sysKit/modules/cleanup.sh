@@ -26,3 +26,6 @@ echo "$count fichiers .log supprimés" > logs/cleanup.log
 echo "$count fichiers .log supprimés"
 
 echo "Nettoyage terminé !"
+
+
+#Ce script fonctione bien 
