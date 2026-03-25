@@ -34,3 +34,4 @@ if [ $? -eq 0 ]; then
 else
     echo "Erreur lors de la sauvegarde."
 fi 
+#le script fontionne
